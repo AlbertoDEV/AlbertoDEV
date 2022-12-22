@@ -7,7 +7,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="Linkedin" alt="Linkedin"/>
    </a>
 </div>
----
 
 ### Datos relevantes:
 - Desarrollador Web (Cursado en IES Rey Fernando VI y pendiente de una asignatura)
