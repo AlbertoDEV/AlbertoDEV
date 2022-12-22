@@ -1,6 +1,7 @@
 <div id="header" align="center">
   <h1 align="center">Hola, soy Alberto González</h1>
-  <h3 align="center">Soy desarrollador web amateur. Me gusta la programación y solventar retos nuevos.</h3>
+  <h3 align="center">Soy desarrollador web amateur.</h3>
+  <h3 align="center">Me gusta la programación y solventar retos nuevos.</h3>
 </div>
 <div id "badges" align="center">
   <a href="https://www.linkedin.com/in/alberto-gonzález-dev">
