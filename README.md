@@ -8,6 +8,7 @@
    </a>
 </div>
 ---
+
 ### Datos relevantes:
 - Desarrollador Web (Cursado en IES Rey Fernando VI y pendiente de una asignatura)
 - Técnico en Sistemas Microinformáticos y Redes (Cursado en IES Rey Fernando VI)
