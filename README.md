@@ -4,13 +4,9 @@
 ## Alberto González Pintado
 Apasionado por el desarrollo Front-end y UX/UI
 
-![AlbertoDEV](assets/AlbertoDEV-min.png)
-
 ---
 
 ### Sobre mí
-
-![About Me Image](assets/AlbertoDEV-min.png)
 
 Soy un **desarrollador web con 2 años de experiencia**, especializado en tecnologías **Full-Stack**. He contribuido al desarrollo de proyectos utilizando **HTML, CSS, JavaScript y Angular** en el Front-end, y **Java con Spring Boot** en el Back-end. Esta versatilidad me ha permitido adaptarme rápidamente y comprender la arquitectura completa de las aplicaciones web.
 
