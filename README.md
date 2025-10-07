@@ -50,23 +50,17 @@ Impulsado por una pasión por el diseño y la usabilidad, he decidido pivotar mi
 
 **Proyecto 1 - El Mesón**
 <br>
-  <img src="assets/ml7.jpg" alt="El Mesón" width="300"/>
-<br>
 Aplicación web para un restaurante con selección de mesas, menú interactivo y soporte multilingüe. Desarrollada con HTML, CSS y JavaScript.
 <br>
 <a href="https://restaurant-integracion.up.railway.app" target="_blank">Ver demo</a>
 
 **Proyecto 2 - New Tricount**
 <br>
-  <img src="assets/ml8.jpg" alt="New Tricount" width="300"/>
-<br>
 Aplicación para compartir y gestionar gastos en grupo. Permite crear grupos, añadir participantes y registrar gastos.
 <br>
 <a href="https://newtricount-integracion.up.railway.app" target="_blank">Ver demo</a>
 
 **Proyecto 3 - Online Quiz Generator**
-<br>
-  <img src="assets/ml9.jpg" alt="Online Quiz Generator" width="300"/>
 <br>
 Aplicación web interactiva para crear y realizar cuestionarios. Desarrollada con HTML, CSS y JavaScript.
 <br>
