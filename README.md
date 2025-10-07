@@ -4,11 +4,13 @@
 ## Alberto González Pintado
 Apasionado por el desarrollo Front-end y UX/UI
 
+
 ---
 
 ### Sobre mí
 
-Soy un **desarrollador web con 2 años de experiencia**, especializado en tecnologías **Full-Stack**. He contribuido al desarrollo de proyectos utilizando **HTML, CSS, JavaScript y Angular** en el Front-end, y **Java con Spring Boot** en el Back-end. Esta versatilidad me ha permitido adaptarme rápidamente y comprender la arquitectura completa de las aplicaciones web.
+
+Soy un **desarrollador web junior con 2 años de experiencia**, especializado en tecnologías **Full-Stack**. He contribuido al desarrollo de proyectos utilizando **HTML, CSS, JavaScript y Angular** en el Front-end, y **Java con Spring Boot** en el Back-end. Esta versatilidad me ha permitido adaptarme rápidamente y comprender la arquitectura completa de las aplicaciones web.
 
 Impulsado por una pasión por el diseño y la usabilidad, he decidido pivotar mi carrera hacia el **desarrollo Front-end** con un enfoque en **UX/UI**. He invertido en mi formación, completando cursos especializados, y ahora estoy aplicando estos conocimientos en la creación de proyectos que demuestran mi habilidad para solucionar problemas de Front-end y diseñar interfaces intuitivas y eficientes.
 
@@ -17,22 +19,28 @@ Impulsado por una pasión por el diseño y la usabilidad, he decidido pivotar mi
 ### Habilidades
 
 #### Frontend
-- HTML5
-- CSS3
-- JavaScript
-- Angular
-- Responsive Design
-- UX/UI Design
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
+  <img src="https://img.shields.io/badge/Responsive%20Design-blue?style=for-the-badge" alt="Responsive Design"/>
+  <img src="https://img.shields.io/badge/UX/UI%20Design-yellow?style=for-the-badge" alt="UX/UI Design"/>
+</p>
 
 #### Backend
-- Java
-- Spring Boot
-- RESTful APIs
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/RESTful%20APIs-green?style=for-the-badge" alt="RESTful APIs"/>
+</p>
 
 #### Herramientas
-- Git
-- VS Code
-- IntelliJ IDEA
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA"/>
+</p>
 
 ---
 
@@ -42,9 +50,7 @@ Impulsado por una pasión por el diseño y la usabilidad, he decidido pivotar mi
 
 **Proyecto 1 - El Mesón**
 <br>
-<a href="assets/proyecto1.mp4">
   <img src="assets/ml7.jpg" alt="El Mesón" width="300"/>
-</a>
 <br>
 Aplicación web para un restaurante con selección de mesas, menú interactivo y soporte multilingüe. Desarrollada con HTML, CSS y JavaScript.
 <br>
@@ -52,9 +58,7 @@ Aplicación web para un restaurante con selección de mesas, menú interactivo y
 
 **Proyecto 2 - New Tricount**
 <br>
-<a href="assets/proyecto2.mp4">
   <img src="assets/ml8.jpg" alt="New Tricount" width="300"/>
-</a>
 <br>
 Aplicación para compartir y gestionar gastos en grupo. Permite crear grupos, añadir participantes y registrar gastos.
 <br>
@@ -62,9 +66,7 @@ Aplicación para compartir y gestionar gastos en grupo. Permite crear grupos, a�
 
 **Proyecto 3 - Online Quiz Generator**
 <br>
-<a href="assets/proyecto3.mp4">
   <img src="assets/ml9.jpg" alt="Online Quiz Generator" width="300"/>
-</a>
 <br>
 Aplicación web interactiva para crear y realizar cuestionarios. Desarrollada con HTML, CSS y JavaScript.
 <br>
