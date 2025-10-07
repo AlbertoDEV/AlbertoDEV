@@ -1,6 +1,6 @@
 # Alberto DEV
 
-##### Desarrollador Web Junior
+##### Desarrollador Web
 ## Alberto González Pintado
 Apasionado por el desarrollo Front-end y UX/UI
 
