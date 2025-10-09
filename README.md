@@ -95,4 +95,3 @@ Una aplicación que muestra el horóscopo diario.
 
 - **Email:** [albertogonzdev@gmail.com](mailto:albertogonzdev@gmail.com)
 - **LinkedIn:** [Alberto González](https://www.linkedin.com/in/alberto-gonzález-dev)
-- **GitHub:** [AlbertoDEV](https://github.com/AlbertoDEV)
