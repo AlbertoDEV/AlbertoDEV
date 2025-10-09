@@ -2,8 +2,6 @@
 
 ##### Desarrollador Web
 ## Alberto González Pintado
-Desarrollador Web especializado en Front-End
-
 
 ---
 
