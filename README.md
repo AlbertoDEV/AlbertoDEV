@@ -1,7 +1,6 @@
 # Alberto DEV
 
 ## Alberto González Pintado
-Desarrollador Web
 
 ### Sobre mí
 
