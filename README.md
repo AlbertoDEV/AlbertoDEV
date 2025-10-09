@@ -42,7 +42,7 @@ Impulsado por una pasión por el diseño y la usabilidad, he decidido pivotar mi
   <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA"/>
 </p>
 
-#### Estadísticas de Lenguajes más Usados
+#### Estadísticas de Lenguajes más usados
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertoDEV&layout=compact&theme=radical)](https://github.com/AlbertoDEV)
 ---
 
