@@ -47,7 +47,7 @@ Impulsado por una pasión por el diseño y la usabilidad, he decidido pivotar mi
 
 **Proyecto 1 - El Mesón**
 <br>
-Aplicación web para un restaurante con selección de mesas, menú interactivo y soporte multilingüe. Desarrollada con HTML, CSS y JavaScript.
+Aplicación web para un restaurante con selección de mesas, menú interactivo y soporte multilingüe.
 <br>
 <a href="https://restaurant-pro-v1.up.railway.app" target="_blank">Ver demo</a>
 
@@ -59,7 +59,7 @@ Aplicación para compartir y gestionar gastos en grupo. Permite crear grupos, a�
 
 **Proyecto 3 - Online Quiz Generator**
 <br>
-Aplicación web interactiva para crear y realizar cuestionarios. Desarrollada con HTML, CSS y JavaScript.
+Aplicación web interactiva para crear y realizar cuestionarios.
 <br>
 <a href="https://onlinequizgenerator-pro-v1.up.railway.app" target="_blank">Ver demo</a>
 
