@@ -42,6 +42,8 @@ Impulsado por una pasión por el diseño y la usabilidad, he decidido pivotar mi
   <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA"/>
 </p>
 
+#### Estadísticas de Lenguajes más Usados
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_NOMBRE_DE_USUARIO_DE_GITHUB&layout=compact&theme=radical)](https://github.com/TU_NOMBRE_DE_USUARIO_DE_GITHUB)
 ---
 
 ### Proyectos
