@@ -43,7 +43,7 @@ Impulsado por una pasión por el diseño y la usabilidad, he decidido pivotar mi
 </p>
 
 #### Estadísticas de Lenguajes más Usados
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_NOMBRE_DE_USUARIO_DE_GITHUB&layout=compact&theme=radical)](https://github.com/TU_NOMBRE_DE_USUARIO_DE_GITHUB)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertoDEV&layout=compact&theme=radical)](https://github.com/AlbertoDEV)
 ---
 
 ### Proyectos
