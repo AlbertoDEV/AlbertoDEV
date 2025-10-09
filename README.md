@@ -3,8 +3,6 @@
 ##### Desarrollador Web
 ## Alberto González Pintado
 
----
-
 ### Sobre mí
 
 
