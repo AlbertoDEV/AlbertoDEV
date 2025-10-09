@@ -52,19 +52,19 @@ Impulsado por una pasión por el diseño y la usabilidad, he decidido pivotar mi
 <br>
 Aplicación web para un restaurante con selección de mesas, menú interactivo y soporte multilingüe. Desarrollada con HTML, CSS y JavaScript.
 <br>
-<a href="https://restaurant-integracion.up.railway.app" target="_blank">Ver demo</a>
+<a href="https://restaurant-pro-v1.up.railway.app" target="_blank">Ver demo</a>
 
 **Proyecto 2 - New Tricount**
 <br>
 Aplicación para compartir y gestionar gastos en grupo. Permite crear grupos, añadir participantes y registrar gastos.
 <br>
-<a href="https://newtricount-integracion.up.railway.app" target="_blank">Ver demo</a>
+<a href="https://newtricount-pro-v1.up.railway.app" target="_blank">Ver demo</a>
 
 **Proyecto 3 - Online Quiz Generator**
 <br>
 Aplicación web interactiva para crear y realizar cuestionarios. Desarrollada con HTML, CSS y JavaScript.
 <br>
-<a href="https://onlinequizgenerator-integracion.up.railway.app" target="_blank">Ver demo</a>
+<a href="https://onlinequizgenerator-pro-v1.up.railway.app" target="_blank">Ver demo</a>
 
 #### Prototipos & Experimentos
 
@@ -72,25 +72,25 @@ Aplicación web interactiva para crear y realizar cuestionarios. Desarrollada co
 <br>
 Aplicación web para organizar y recordar los momentos clave de tus vacaciones.
 <br>
-<a href="https://dailyvacations-integracion.up.railway.app" target="_blank">Ver demo</a>
+<a href="https://dailyvacations-pro-v1.up.railway.app" target="_blank">Ver demo</a>
 
 **Proyecto 5 - To Do List**
 <br>
 Aplicación de lista de tareas con funciones de agregar, marcar como completado y eliminar.
 <br>
-<a href="https://todolist-integracion.up.railway.app" target="_blank">Ver demo</a>
+<a href="https://todolist-pro-v1.up.railway.app" target="_blank">Ver demo</a>
 
 **Proyecto 6 - PomodoroTimer MusicPlayer**
 <br>
 Una aplicación que combina un temporizador Pomodoro con un reproductor de música.
 <br>
-<a href="https://pomodorotimermusicplayer-integracion.up.railway.app" target="_blank">Ver demo</a>
+<a href="https://pomodorotimermusicplayer-pro-v1.up.railway.app" target="_blank">Ver demo</a>
 
 **Proyecto 7 - Horoscope App**
 <br>
 Una aplicación que muestra el horóscopo diario.
 <br>
-<a href="https://horoscopeapp-integracion.up.railway.app" target="_blank">Ver demo</a>
+<a href="https://horoscopeapp-pro-v1.up.railway.app" target="_blank">Ver demo</a>
 
 ---
 
