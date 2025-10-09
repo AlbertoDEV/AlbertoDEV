@@ -44,7 +44,6 @@ Impulsado por una pasión por el diseño y la usabilidad, he decidido pivotar mi
 
 #### Estadísticas de GIT
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertoDEV&layout=compact&theme=radical)](https://github.com/AlbertoDEV)
-[![Tus Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=AlbertoDEV&show_icons=true&theme=radical)](https://github.com/AlbertoDEV)
 ---
 
 ### Proyectos
